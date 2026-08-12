@@ -1,0 +1,18 @@
+# Binaries & Executables
+*.exe
+*.out
+*.o
+*.obj
+*.class
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs & Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Node / JS
+node_modules/
