@@ -25,5 +25,4 @@ class Solution:
             for i in range(bottom - 1, top - 1, -1):
                 res.append(matrix[i][left])
             left += 1
-
         return res
